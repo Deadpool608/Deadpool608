@@ -1,37 +1,30 @@
-# Hi there 👋 I'm Dipak Chaudhari
+# 💫 About Me:
+🔭 Developing WordPress themes for elegant and efficient solutions.<br>🌱 Learning GSAP for dynamic and engaging user experiences.<br>💬 Ask me about web development! 3+ years tackling challenges with PHP, JavaScript, WordPress (and plugins), HTML, CSS, Bootstrap, MSSQL, and Python. 20+ delivered websites.<br>⚡ Freelancing for three years, helping clients solve their online presence needs.<br>💡 Passionate about clean code and user-centered design.
 
-A passionate web developer from Surat, India 🇮🇳, with 3+ years of experience building and deploying websites 🌐. I thrive on transforming ideas into functional and user-friendly web experiences ✨.
 
-## What I do
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100024013084968) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__mr_dipu__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dipak-chaudhari-855252217) 
 
-I specialize in full-stack web development, with a strong focus on PHP 🐘, JavaScript 🚀, and WordPress 🛠️. I've successfully delivered over 20 websites, ranging from simple landing pages to complex web applications. I'm also proficient in building custom WordPress plugins to extend functionality and meet specific client needs.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=deadpool608&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=deadpool608&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deadpool608&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Skills
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=deadpool608&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-Here are some of the technologies I work with:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-*   **Languages:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="20" height="20"/> PHP, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="20" height="20"/> JavaScript, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="python" width="20" height="20"/> Python, HTML, CSS
-*   **Frameworks/Libraries:** Bootstrap
-*   **CMS:** WordPress (including custom plugin magic ✨)
-*   **Databases:** MSSQL
-*   **Other:** Git, Responsive Design, Cross-Browser Compatibility
-
-## Projects
-
-*(Add your project details here)*
-
-## Connect with me
-
-*   [LinkedIn Profile URL] https://www.linkedin.com/in/dipak-chaudhari-855252217/ 🔗
-*   [Email Address] dipchaudhari608@gmail.com 📧
-*   [Portfolio Website (cooming soon)] 🌐
-
-## GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=deadpool608&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadpool608&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=deadpool608&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=deadpool608&icon=4&color=13)](https://visitcount.itsvg.in)
 
-Based in Surat, Gujarat, India 📍.
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@dipakchaudhari2192) 
+
+  
