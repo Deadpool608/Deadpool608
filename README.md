@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Deadpool608/Deadpool608/refs/heads/main/dv%20banner.gif" style=" margin:auto;" >
 
 # 💫 About Me:
-🔭 Developing WordPress themes for elegant and efficient solutions.<br>🌱 Learning GSAP for dynamic and engaging user experiences.<br>💬 Ask me about web development! 3+ years tackling challenges with PHP, JavaScript, WordPress (and plugins), HTML, CSS, Bootstrap, MSSQL, and Python. 20+ delivered websites.<br>⚡ Freelancing for three years, helping clients solve their online presence needs.<br>💡 Passionate about clean code and user-centered design.
+🔭 Developing WordPress themes for elegant and efficient solutions.<br>🌱 Learning GSAP for dynamic and engaging user experiences.<br>💬 Ask me about web development! 3+ years tackling challenges with PHP, JavaScript, WordPress (and plugins), HTML, CSS, Bootstrap, MSSQL, and Python. 20+ delivered websites.<br>⚡ Freelancing for three years, helping clients solve their online presence needs.<br>💡 Passionate about the clean code and user-centered design.
 
 
 ## 🌐 Socials:
